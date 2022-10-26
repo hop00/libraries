@@ -1,0 +1,1 @@
+Math, _run, Statistics, Product, _statistics, _callfunction, _square = exec, str, tuple, map, ord, globals, type
