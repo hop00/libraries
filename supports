@@ -1,1 +1,7 @@
-Math, _run, Statistics, Product, _statistics, _callfunction, _square = exec, str, tuple, map, ord, globals, type
+Math = exec
+_run = str
+Statistics = tuple
+Product = map
+_statistics = ord
+_callfunction = globals
+_square = type
